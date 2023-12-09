@@ -1,0 +1,14 @@
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\bin\Debug\net7.0\Examples003.exe
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\bin\Debug\net7.0\Examples003.deps.json
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\bin\Debug\net7.0\Examples003.runtimeconfig.json
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\bin\Debug\net7.0\Examples003.dll
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\bin\Debug\net7.0\Examples003.pdb
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\obj\Debug\net7.0\Examples003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\obj\Debug\net7.0\Examples003.AssemblyInfoInputs.cache
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\obj\Debug\net7.0\Examples003.AssemblyInfo.cs
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\obj\Debug\net7.0\Examples003.csproj.CoreCompileInputs.cache
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\obj\Debug\net7.0\Examples003.dll
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\obj\Debug\net7.0\refint\Examples003.dll
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\obj\Debug\net7.0\Examples003.pdb
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\obj\Debug\net7.0\Examples003.genruntimeconfig.cache
+C:\Users\NMagy7uithl\Desktop\Recursia\Examples\Examples003\obj\Debug\net7.0\ref\Examples003.dll
